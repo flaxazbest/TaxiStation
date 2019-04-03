@@ -1,0 +1,19 @@
+{"carSet":
+  [
+    {
+      "taxiStation":null,
+      "cost":0.0,
+      "fuelConsumption":0.0,
+      "averageSpeed":0,
+      "maxWeight":0.0,
+      "currentWeight":0.0
+    },
+    {
+      "taxiStation":null,
+      "cost":0.0,
+      "fuelConsumption":0.0,
+      "averageSpeed":20
+    }
+  ],
+  "cost":0.0
+}
